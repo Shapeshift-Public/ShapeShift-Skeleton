@@ -13,3 +13,4 @@ var server = http.createServer(function(req, res){
 
 // Listen
 server.listen(3000)
+console.log("Server Listening On Port 3000\n   type 'http://localhost:3000' into browser");
