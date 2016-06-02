@@ -1,0 +1,16 @@
+{
+  "name": "shapeshift-api-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dev-server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "finalhandler": "~0.4.0",
+    "http": "0.0.0",
+    "serve-static": "~1.10.0"
+  }
+}
